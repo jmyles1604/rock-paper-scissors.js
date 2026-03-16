@@ -22,7 +22,7 @@ The game allows a player to compete against a computer opponent with randomised 
 
 Clone the repository and open:
 
-index.html
+RockPaper.html
 
 in your browser.
 
